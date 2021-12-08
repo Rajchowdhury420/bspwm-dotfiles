@@ -30,8 +30,9 @@
 
 ![bspwm](https://raw.githubusercontent.com/theCode-Breaker/bspwm-dotfiles/main/bspwm.png)
 
-**NOTE**- Some packages may be missing so get them manually from AUR
-          I am using [Nordic](https://github.com/EliverLara/Nordic) theme get it manually
-          Use whatever icons you like
+## **NOTE**- 
+- Some packages may be missing so get them manually from AUR
+- I am using [Nordic](https://github.com/EliverLara/Nordic) theme get it manually
+- Use whatever icons you like
      
 **ENJOY**
