@@ -39,8 +39,6 @@ xed
 jq
 feh
 dunst
-arc-x-icons-theme
-arc-gtk-theme-eos
 capitaine-cursors
 gtk-engine-murrine
 seahorse
