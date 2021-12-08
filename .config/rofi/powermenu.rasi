@@ -3,7 +3,7 @@
 window {
     padding:                        10;
     location:                       northwest;
-    width:                          180px;
+    width:                          200px;
     height:                         310px;
     y-offset:                       50;
     x-offset:                       10;
