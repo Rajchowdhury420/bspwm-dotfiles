@@ -9,14 +9,13 @@
     bash bspwm-install.sh
    
 ## Contained In The Script
+    mkdir ~/.local/share/fonts
+    cp -R IosevkaTermNerdFontComplete.ttf ~/.local/share/fonts
     cp -R .config/* ~/.config/
-        
-    cp .gtkrc-2.0 ~/.gtkrc-2.0
-    
-    chmod -R +x ~/.config/bspwm/scripts
-        
-    yay -Syu --needed --noconfirm - < packages-repository.txt
-    
+    chmod -R +x ~/.config/bspwm
+    chmod -R +x ~/.config/polybar/scripts
+    sudo pacman -Syu --needed --noconfirm - < packages-repository.txt
+    sudo fc-cache -f -v
     dbus-launch dconf load / < xed.dconf
     
 
@@ -29,4 +28,4 @@
 - Application Launcher = Rofi
 
 
-![bspwm](https://raw.githubusercontent.com/theCode-Breaker/dotfiles/main/bspwm/bspwm.png)
+![bspwm](https://raw.githubusercontent.com/theCode-Breaker/bspwm-dotfiles/main/bspwm.png)
