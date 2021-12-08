@@ -2,7 +2,7 @@
 
 ## To Install manually
 
-    git clone https://github.com/theCode-Breaker/dotfiles.git
+    git clone https://github.com/theCode-Breaker/bspwm-dotfiles.git
 
     cd bspwm-dotfiles
 
