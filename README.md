@@ -4,7 +4,7 @@
 
     git clone https://github.com/theCode-Breaker/dotfiles.git
 
-    cd bspwm
+    cd bspwm-dotfiles
 
     bash bspwm-install.sh
    
