@@ -1,0 +1,10 @@
+@theme "~/.config/rofi/nord.rasi"
+
+window {
+    padding:                        10;
+    location:                       northwest;
+    width:                          180px;
+    height:                         310px;
+    y-offset:                       50;
+    x-offset:                       10;
+}
