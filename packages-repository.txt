@@ -42,7 +42,6 @@ dunst
 arc-x-icons-theme
 arc-gtk-theme-eos
 capitaine-cursors
-galculator
 gtk-engine-murrine
 seahorse
 ttf-nerd-fonts-symbols
