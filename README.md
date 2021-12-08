@@ -29,3 +29,5 @@
 
 
 ![bspwm](https://raw.githubusercontent.com/theCode-Breaker/bspwm-dotfiles/main/bspwm.png)
+
+**NOTE**- Some packages may be missing so get them manually from AUR and I have not added any GTK or icon theme get them manually
