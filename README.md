@@ -28,7 +28,9 @@
 - Application Launcher = Rofi
 
 
-![bspwm](https://raw.githubusercontent.com/theCode-Breaker/bspwm-dotfiles/main/bspwm.png)
+![bspwm1](https://raw.githubusercontent.com/theCode-Breaker/bspwm-dotfiles/main/bspwm.png) 
+![bspwm2](https://raw.githubusercontent.com/theCode-Breaker/bspwm-dotfiles/main/bspwm2.png) 
+![bspwm3](https://raw.githubusercontent.com/theCode-Breaker/bspwm-dotfiles/main/bspwm3.png)
 
 ## **NOTE**- 
 - Some packages may be missing so get them manually from AUR
